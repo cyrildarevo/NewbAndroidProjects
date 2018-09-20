@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_phrases">പദങ്ങൾ</string>
+    <string name="category_colors">നിറങ്ങൾ</string>
+    <string name="category_family">" കുടുംബാംഗങ്ങൾ"</string>
+    <string name="category_numbers">സംഖ്യകൾ</string>
+</resources>

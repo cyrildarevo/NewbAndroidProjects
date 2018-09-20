@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d315cc60-e6a6-4f49-ad32-58c2472876d5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.gitignore" afterPath="$PROJECT_DIR$/../HappyBirthday/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/../HappyBirthday/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.idea/misc.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/.idea/runConfigurations.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/.gitignore" afterPath="$PROJECT_DIR$/../HappyBirthday/app/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/build.gradle" afterPath="$PROJECT_DIR$/../HappyBirthday/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/../HappyBirthday/app/proguard-rules.pro" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/androidTest/java/com/example/android/happybirthday/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/androidTest/java/com/example/android/happybirthday/ExampleInstrumentedTest.java" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/java/com/example/android/happybirthday/MainActivity.java" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/java/com/example/android/happybirthday/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable/androidparty.jpg" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable/androidparty.jpg" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/drawable/ic_launcher_background.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/main/res/values/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/app/src/test/java/com/example/android/happybirthday/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/../HappyBirthday/app/src/test/java/com/example/android/happybirthday/ExampleUnitTest.java" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/build.gradle" afterPath="$PROJECT_DIR$/../HappyBirthday/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/gradle.properties" afterPath="$PROJECT_DIR$/../HappyBirthday/gradle.properties" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/../HappyBirthday/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../HappyBirthday/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/gradlew.bat" afterPath="$PROJECT_DIR$/../HappyBirthday/gradlew.bat" />
+      <change beforePath="$PROJECT_DIR$/../HappyBirthday/settings.gradle" afterPath="$PROJECT_DIR$/../HappyBirthday/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.gitignore" afterPath="$PROJECT_DIR$/../JustKoFei/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/../JustKoFei/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/../JustKoFei/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../JustKoFei/.idea/gradle.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.idea/misc.xml" afterPath="$PROJECT_DIR$/../JustKoFei/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/../JustKoFei/.idea/runConfigurations.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/README.md" afterPath="$PROJECT_DIR$/../JustKoFei/README.md" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/app/.gitignore" afterPath="$PROJECT_DIR$/../JustKoFei/app/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/app/build.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../JustKoFei/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/.gitignore" afterPath="$PROJECT_DIR$/../JustKoFei/base/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/build.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/base/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/drawable/ic_launcher_background.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/drawable/ic_launcher_background.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/../JustKoFei/base/src/main/res/values/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/build.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/.gitignore" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/build.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/proguard-rules.pro" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/proguard-rules.pro" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/androidTest/java/com/example/android/justkofei/feature1/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/androidTest/java/com/example/android/justkofei/feature1/ExampleInstrumentedTest.java" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/java/com/example/android/justkofei/feature1/MainActivity.java" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/java/com/example/android/justkofei/feature1/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/feature1/src/test/java/com/example/android/justkofei/feature1/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/../JustKoFei/feature1/src/test/java/com/example/android/justkofei/feature1/ExampleUnitTest.java" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/gradle.properties" afterPath="$PROJECT_DIR$/../JustKoFei/gradle.properties" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/../JustKoFei/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../JustKoFei/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/gradlew.bat" afterPath="$PROJECT_DIR$/../JustKoFei/gradlew.bat" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/instantapp/.gitignore" afterPath="$PROJECT_DIR$/../JustKoFei/instantapp/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/instantapp/build.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/instantapp/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/../JustKoFei/settings.gradle" afterPath="$PROJECT_DIR$/../JustKoFei/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1405" />
+    <option name="width" value="1305" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d315cc60-e6a6-4f49-ad32-58c2472876d5" name="Default" comment="" />
+      <created>1531864814698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531864814698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1405" y="0" width="1280" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.48379254" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Dart Analysis" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32798165" sideWeight="0.51620746" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.50648296" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951945" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20664506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
